@@ -27,27 +27,19 @@ Database Management in Business, Statistical Application & Quantitative Methods,
 
 **Seattle University, Seattle, WA**
 
--   Sept 2018 - Dec 2019
-
--   M.S. in Business Analytics, GPA 3.92, on the Dean's Honor List.
+-   Sept 2018 - Dec 2019, M.S. in Business Analytics, GPA 3.92, on the Dean's Honor List.
 
 **Bittiger Business Analyst Certificate Program, on-line**
 
--   Jan 2018 - Oct 2018
-
--   Business Analyst Certificate with honor.
+-   Jan 2018 - Oct 2018, Business Analyst Certificate with honor.
 
 **Southwest University, Chongqing, China**
 
--   Sept 2013 - July 2016
-
--   M.A. in Applied Linguistics.
+-   Sept 2013 - July 2016, M.A. in Applied Linguistics.
 
 **Sichuan Normal University, Chengdu, China**
 
--   Sept 2009 - July 2013
-
--   B.A. in English Language Teaching.
+-   Sept 2009 - July 2013, B.A. in English Language Teaching.
 
 -   Worked as a Student Union leader from 2009-2016, mainly in charge of learning-related affairs. Conducted class attendance checking of 20 schools. Improved work efficiency by 87.5% by building a system on Excel to generate a random class attendance checking table automatically and an updating system.
 
@@ -117,7 +109,7 @@ Database Management in Business, Statistical Application & Quantitative Methods,
 
 -   Provided company events support, such as budgeting, negotiating, and organizing.
 
-**Teacher, Chengdu Foreign Languages School**
+**Teacher (full-time), Chengdu Foreign Languages School**
 
 -   May 2016 - July 2017
 
