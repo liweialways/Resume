@@ -11,15 +11,15 @@ Detail oriented Business Analytics major with deep understanding of statistics, 
 
 | Languages | Data Visualization | Statistics          | Business and Communication |
 |-----------|--------------------|---------------------|----------------------------|
-| SQL       | ggplot in R/Python | probability         | Analytical thinking        |
-| Python    | Tableau            | forcast & inference | Business acumen            |
-| R         | Power BI           | hypothesis testing  | Quick learner              |
+| SQL       | ggplot in R/Python | Probability         | Analytical thinking        |
+| Python    | Tableau            | Forecast & inference | Business acumen            |
+| R         | Power BI           | Hypothesis testing  | Quick learner              |
 
 ------------------------------------------------------------------------
 
 ### CORE COURSES
 
-Database Management in Business, Statistical Application & Quantitative Methods, Programming for Business Analytics, Applied Econometrics, Mathematical Models for Decision-Making, Communicating & Visualizing Data, Law & Ethics for BA, Big Data Analytics, Corporate Finance, Financial Accounting, Introduction to Marketing, etc.
+Database Management in Business, Programming for Business Analytics, Statistical Application & Quantitative Methods, Applied Econometrics, Mathematical Models for Decision-Making, Statistical Learning, Communicating & Visualizing Data, Law & Ethics for BA, Big Data Analytics, Corporate Finance, Financial Accounting, Introduction to Marketing, etc.
 
 ------------------------------------------------------------------------
 
