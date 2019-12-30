@@ -1,25 +1,55 @@
 Wei (Chloe) Li
 ==============
 
-<liwei@seattleu.edu> · 929.421.6212 · Seattle, WA 98029
+<liweialways@gmail.com> · 929.421.6212 · Issaquah, WA 98029 · <https://www.linkedin.com/in/li1125/>
 
 ------------------------------------------------------------------------
 
 ### EXECUTIVE SUMMARY
 
-Detail oriented Business Analytics major with deep understanding of statistics, programming and business. Seeking to use proven skills in data analysis, leadership, cooperative communication to meet business needs. Core competencies include:
+Business data analytics major with hands-on experience, strong business acumen and deep understanding in data analytics, programing skills and statistics knowledge A fast learner, self-starter and team player. Core competencies include:
 
 | Languages | Data Visualization | Statistics          | Business and Communication |
 |-----------|--------------------|---------------------|----------------------------|
-| SQL       | ggplot in R/Python | Probability         | Analytical thinking        |
+| SQL       | ggplot in R/Python | AB Test             | Analytical thinking        |
 | Python    | Tableau            | Forecast & inference | Business acumen            |
 | R         | Power BI           | Hypothesis testing  | Quick learner              |
 
 ------------------------------------------------------------------------
 
-### CORE COURSES
+### WORK EXPERIENCE
 
-Database Management in Business, Programming for Business Analytics, Statistical Application & Quantitative Methods, Applied Econometrics, Mathematical Models for Decision-Making, Statistical Learning, Communicating & Visualizing Data, Law & Ethics for BA, Big Data Analytics, Corporate Finance, Financial Accounting, Introduction to Marketing, etc.
+**Marketing Data Analytics Intern, PACCAR Parts**
+
+-   Jun 2019 - Sept 2019
+
+-   Used RegExp in Python to build a map between truck part ID in dealers' retail data against internal system, improved matching rate from 59% to 85%, now being used as a cross reference, greatly increased the value of dealers' retail data.
+
+-   Generated online shopping recommendations by applying Association Rules and conducting analysis and calculation of support, lift, confidence on the matched truck part ID, and thus keep boosting e-Commerce.
+
+-   Created a self-service Tableau dashboard of financials enabling 8 Business Units in Product Marketing Dept to self-choose dimensions and measures, and track business metrics on a regular basis. This automated the manual data retrieval work.
+
+-   Communicated with 8 Business Units for dashboard metrics and created a Tableau dashboard accordingly of marketing sales history for Board and Business Units to track performance of newly launched truck parts and presented to Board.
+
+-   Extracted data from multiple databases (Snowflake, Access, Teradata) using SQL.
+
+**Graduate Admission Assistant, Seattle University**
+
+-   Nov 2018 – Dec 2019
+
+-   Coordinated meetings for prospective students with Admission Counselor and Adviser, and conducted campus tour.
+
+-   Conducted quarterly survey analysis, managed data in Salesforce, and provided marketing support on social media strategies.
+
+-   Built a workflow that facilitated daily work, reducing time by 45% and reduced error rate by 32%.
+
+**Project Coordinator Trainee, CSI Interfusion**
+
+-   Sept 2018 – May 2019
+
+-   Built technical interview questions database easy to search by key words.
+
+-   Managed employee information and monthly billing procedure for outreach team. Provided company event support.
 
 ------------------------------------------------------------------------
 
@@ -27,7 +57,7 @@ Database Management in Business, Programming for Business Analytics, Statistical
 
 **Seattle University, Seattle, WA**
 
--   Sept 2018 - Dec 2019, M.S. in Business Analytics, GPA 3.92, on the Dean's Honor List.
+-   Sept 2018 - Dec 2019, M.S. in Business Analytics, GPA 3.69, on the Dean's Honor List.
 
 **Bittiger Business Analyst Certificate Program, on-line**
 
@@ -41,78 +71,28 @@ Database Management in Business, Programming for Business Analytics, Statistical
 
 -   Sept 2009 - July 2013, B.A. in English Language Teaching.
 
--   Worked as a Student Union leader from 2009-2016, mainly in charge of learning-related affairs. Conducted class attendance checking of 20 schools. Improved work efficiency by 87.5% by building a system on Excel to generate a random class attendance checking table automatically and an updating system.
+------------------------------------------------------------------------
 
--   Worked as an adviser assistant in charge of employment-related affairs. Achieved 13.1% rise in employment rate by launching a grade-wide campaign focusing on improving skills, networking, etc.
+### CORE COURSES
+
+Database Management in Business, Big Data Analytics, Programming for Business Analytics, Financial Modeling, Statistical Application & Quantitative Methods, Applied Econometrics, Mathematical Models for Decision-Making, Statistical Learning, Communicating & Visualizing Data, Law & Ethics for BA, Corporate Finance, Financial Accounting, Introduction to Marketing, etc.
 
 ------------------------------------------------------------------------
 
-### PROJECTS
+### COURSE PROJECTS
+
+**AWS Customer Clustering and Products Adoption Predictive Analysis**
+
+-   Validated and cleaned data. Draw insights from training dataset about the current products adoption status, customer sizes, age, geographical code, monthly usage of other services and monthly billing amount.
+
+-   Clustered customer into three groups using aforementioned attributes.
+
+-   Trained data with Random Forest, Neural Network, SVM and Logistic Regression, then predicted products adoption on test data and checked precision, recall and error rate. Recommended Random Forest to be applied in this case
 
 **Payment recommendation to increase conversion in App Store purchase**
 
--   Jun 2018 - Jul 2018
-
--   Identified potential monetization opportunity to improve buyer conversion.
-
--   Discovered strong correlations between user conversion and form of payment through longitudinal EDA.
+-   Identified potential monetization opportunity to improve buyer conversion through longitudinal EDA.
 
 -   Designed AB test to verify the impact of payments on store purchase flow. Built interactive and scalable Python dashboard to measure the impact by drawing Jackknife confidence interval and calculating statistical significance.
 
--   Made recommendations that gift card be recommended and promoted to users; demonstrated the results.
-
-**Real estate price estimation**
-
--   Aug 2018 - Sept 2018
-
--   Validated and imputed real estate data. Conducted EDA to understand data distribution and correlations with R.
-
--   Built regression models to predict real estate price and identified most contributing features.
-
--   Analyzed residual plot to detect violation of regression assumptions.
-
--   Optimized estimation by adding transformed features.
-
-**Credit card fraud detection**
-
--   Sept 2018 - Oct 2018
-
--   Validated credit card transaction records by cleaning and imputing with Python using Scikit learn, SciPy, etc.
-
--   Inspected data distribution and correlation through EDA. Conducted outlier analysis in multiple ways.
-
--   Analyzed features' implication and importance; Implemented feature engineering for higher-contributing features.
-
--   Built classification models to predict fraud transaction; Evaluated model performance and Hyper parameters.
-
-------------------------------------------------------------------------
-
-### WORK EXPERIENCE
-
-**Graduate Admission Assistant (on-campus job), Seattle University**
-
--   Sept 2018 - present
-
--   Wrote and directly reported quarterly analysis on the Qualtrics survey for Admissions and 6 departments.
-
--   Data management and analysis with Salesforce and Qualtrics with strong confidentiality sense.
-
--   Coordinated meetings for prospective students with Admission Counselor and Adviser, conducted campus tour.
-
--   Provided event and marketing support, including social media strategies.
-
-**Project Coordinator (Intern), CSI Interfusion**
-
--   Dec 2018 - present
-
--   Conducted employee information management and monthly billing procedure for outreach team.
-
--   Provided company events support, such as budgeting, negotiating, and organizing.
-
-**Teacher (full-time), Chengdu Foreign Languages School**
-
--   May 2016 - July 2017
-
--   Established a reward system to manage classroom behavior, created a learning-enhancing environment and realized class ranking improvement from No. 25 to No. 9.
-
--   Conducted correlation analysis and identified factors that has strong correlations with the entrance exam scores; then provided suggestions for parents and got 98% satisfactory feedback.
+-   Made recommendations that gift card be recommended and promoted to users based on the AB test results.
